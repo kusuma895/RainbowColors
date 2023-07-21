@@ -1,0 +1,21 @@
+body
+{
+   text-align:center;
+   /* border:solid steelblue; */
+   height:60px;
+   align-items: center;
+   width:100px;
+   margin-top: 300px;
+   left: 700px;
+   position: relative;
+   border-radius: 30px;
+}
+#button{
+   text-align: center;
+   height: 50px;width: 150px;
+   align-items: center;
+   position: relative;
+   font-size: 30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: rgba(167, 95, 95, 0.589);
+}
